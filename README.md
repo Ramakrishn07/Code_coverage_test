@@ -85,9 +85,14 @@ Reports are stored as (```detailed_<repo_name>_coverage_report.csv```)
 **Example Output**
 **Summary Output**
 (```Repository, Coverage Percentage
+
     repo-a, 85.30%
+    
     repo-b, 78.40%
-    repo-c, Not Configured```)
+    
+    repo-c,
+    
+    Not Configured```)
 
 *Verbose Mode Output*
 (```Detailed coverage report generated for repo-a: detailed_repo-a_coverage_report.csv```)
